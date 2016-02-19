@@ -1,0 +1,6 @@
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\Working\GitHub\C-Sharp-Palindrome\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
